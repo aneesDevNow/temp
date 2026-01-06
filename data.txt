@@ -1,0 +1,37 @@
+[
+  {
+    "domain": "app.jenni.ai",
+    "type": "indexdb",
+    "data": [
+      {
+        "fbase_key": "firebase:authUser:AIzaSyDGGtpyhELSknE8ZOAsqozPYrDHp0li6Q4:[DEFAULT]",
+        "value": {
+          "uid": "H2YtC3y1PaMomHSNCWUGVtPSn6E3",
+          "email": "diwalihappy379@gmail.com",
+          "emailVerified": true,
+          "displayName": "anees",
+          "isAnonymous": false,
+          "providerData": [
+            {
+              "providerId": "password",
+              "uid": "diwalihappy379@gmail.com",
+              "displayName": "anees",
+              "email": "diwalihappy379@gmail.com",
+              "phoneNumber": null,
+              "photoURL": null
+            }
+          ],
+          "stsTokenManager": {
+            "refreshToken": "AMf-vBzsouNmPZj26WKgXfRqnt-1_0d0Zyn226ZUGZh00gurGYj28qAeDclS9nTcoQETBdGbq9Zw8SuIzgFhyhYacpWkuwSmJo2DMMmPVPbAViCxyREOpjmUQzWsIjJ4EmyqnU0dxZ4D1pBFqfFaV71OlEsxzsODxxywQceFEJFgMzx4xjFnEjao7QLWqWFT35I6ZgwfuWfk",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ4Mjg5MmZhMzJlY2QxM2E0ZTBhZWZlNjI4ZGQ5YWFlM2FiYThlMWUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiYW5lZXMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vc3BlYXJlIiwiYXVkIjoic3BlYXJlIiwiYXV0aF90aW1lIjoxNzY3NjEwNjc1LCJ1c2VyX2lkIjoiSDJZdEMzeTFQYU1vbUhTTkNXVUdWdFBTbjZFMyIsInN1YiI6IkgyWXRDM3kxUGFNb21IU05DV1VHVnRQU242RTMiLCJpYXQiOjE3Njc3MTgwMTYsImV4cCI6MTc2NzcyMTYxNiwiZW1haWwiOiJkaXdhbGloYXBweTM3OUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJkaXdhbGloYXBweTM3OUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.qr_gjXvl4D0fN1WcCXE5x84P7LvQKK-2jkl_B7fsk9R3_JRkWN6AeMMgyv8mKX5cDwoRqlO3-NTgT2rmCiQCsj6_hGoetWkseaqkrqgth_f-vSULQXpSKilOzpj43RDkX4Jnv3ckBYk04t9OfyTFU-FEInukjocy4NrzSxWeWjdEVTLxtIJoCHUV78BBoMizWS5Dti9KHXPxRr-4BUf4rGtBp1b1y3yUpt-qQgUJ6rzI624P4sA1Ib63NqzLvF4TYKzU6Nnft_QD7dKZaXQdy2d7JtpSLO19shVxckzRd2qMY9qyOuHNh0AxHRei4BwvFgOakpal9YWy6XlqLhcMqw",
+            "expirationTime": 1767721616554
+          },
+          "createdAt": "1767610675485",
+          "lastLoginAt": "1767610675485",
+          "apiKey": "AIzaSyDGGtpyhELSknE8ZOAsqozPYrDHp0li6Q4",
+          "appName": "[DEFAULT]"
+        }
+      }
+    ]
+  }
+]
